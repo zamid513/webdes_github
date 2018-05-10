@@ -1,0 +1,18 @@
+p {
+  font-size: 43px;
+  padding: 56px;
+  -webkit-columns: #900009;
+     -moz-columns: #900009;
+          columns: #900009; }
+
+body {
+  background-color: #000000;
+  color: #cccccc;
+  margin: 98px;
+  color: blue;
+  padding: 23px;
+  display: block;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
